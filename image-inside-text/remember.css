@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 12em;
+    color: transparent;
+    text-align: center;
+    margin: 250px auto;
+    text-transform: uppercase;
+    background: url(rs.png);
+    background-size: cover;
+    background-attachment: fixed;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
